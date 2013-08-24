@@ -1,0 +1,14 @@
+/* line 1, ../sass/editor3d.scss */
+canvas {
+  width: 1000px;
+  height: 500px;
+  background-color: #000000;
+  float: left;
+}
+
+/* line 8, ../sass/editor3d.scss */
+.output {
+  float: left;
+  width: 100px;
+  height: 50px;
+}
